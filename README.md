@@ -8,4 +8,7 @@ El primer paso para la consecucion de este proyecto es la recoleccion de todos l
 
 ## ETL primera parte 
 ------------------------------------------
-Despues del proceso de EDA que nos da una idea de 
+Despues del proceso de EDA que nos da una idea de la composicion, la consistencia, completitud y el tipo de datos del dataset, procedemos a limpiar y normalizar el dataset principal cargandolo desde un archivo excel a un dataframe, a partir de este se limpia y normalizan los datos que seran usado en la construccion del dashboard conteniendo las metricas y KPIs relevantes para el analisis de la situacion vial, el detalle del proceso de limpieza y normalizacion esta en el archivo **ETL.ipynb** en el repositorio.
+
+## ETL seugnda parte
+------------------------------------------
